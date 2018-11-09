@@ -1,0 +1,32 @@
+#div1{
+	text-align: center;
+
+}
+#stu{
+	margin-top: 80px;
+	margin-left: 80px;
+}
+#t1{
+	margin-top: 50px;
+	margin-right:70px;
+	
+}
+label{
+   margin-right:80px;
+   position: relative;
+}
+
+table { 
+    border-spacing: 10px;
+    border-collapse: collapse;
+    
+    
+    text-align: left;
+}
+table, td, th {
+    border: 1px solid black;
+    width: 230px;
+}
+th{
+	text-align: center;
+}
